@@ -92,7 +92,7 @@ CodeAlpha_WebScraping_BooksDataset/
 
 ## 👨‍💻 Author
 **Your Name** — CodeAlpha Data Analytics Intern  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+GitHub: [https://github.com/yourusername]([https://github.com/yourusername](https://github.com/SatyanarayanaG2908/CodeAlpha_WebScraping_BooksDataset))
 
 ---
 
